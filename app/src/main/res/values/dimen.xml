@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="topDimen">32dp</dimen>
+
+    <dimen name="baseMargin">16dp</dimen>
+    <dimen name="textSize"></dimen>
+
+    <dimen name="baseSize">16dp</dimen>
+
+    <dimen name="topBar">18dp</dimen>
+</resources>

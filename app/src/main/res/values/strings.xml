@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SendMessage</string>
+
+    <string name="mainPage">主页</string>
+    <string name="blogText">笔记本</string>
+    <string name="like">社区</string>
+    <string name="home">个人中心</string>
+
+    <string name="top_title1">登录</string>
+    <string name="top_title2">注册</string>
+    <string name="username">账号：</string>
+    <string name="password">密码：</string>
+    <string name="usernameHint">请输入用户名</string>
+    <string name="passwordHint">请输入密码</string>
+    <string name="rePassword">确认密码</string>
+    <string name="emailHint">请输入手机号</string>
+    <string name="code">验证码</string>
+    <string name="getcode">获取验证码</string>
+    <string name="topText">顶部</string>
+    <string name="blog">博客</string>
+    <string name="movie">电影</string>
+    <string name="user">个人中心</string>
+    <string name="noUser">没有账号？</string>
+
+    <string name="resetPassword">重置密码</string>
+</resources>
