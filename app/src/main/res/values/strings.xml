@@ -10,7 +10,7 @@
     <string name="top_title2">注册</string>
     <string name="username">账号：</string>
     <string name="password">密码：</string>
-    <string name="usernameHint">请输入用户名</string>
+    <string name="usernameHint">请输入用户名 </string>
     <string name="passwordHint">请输入密码</string>
     <string name="rePassword">确认密码</string>
     <string name="emailHint">请输入手机号</string>
